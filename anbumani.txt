@@ -1,0 +1,3 @@
+class main()
+public opertor();
+public static viod main()
